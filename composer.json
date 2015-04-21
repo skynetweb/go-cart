@@ -1,0 +1,8 @@
+{
+name: "skynetweb/go-cart",
+autoload: {
+psr-0: {
+Skynetweb\gocart: "src"
+}
+}
+}
